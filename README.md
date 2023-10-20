@@ -8,3 +8,5 @@
 - A crime detection model is create to analyze each image to acertain any abnormal behavior in people or any crimes that are being commited, helping the authorities to act faster.
 - Time series GAN or Stable diffusion models are used for crowd controll since they are better at analyzing image as a whole 
 - A seperate crime detection model is used since small subsets of the images need to be analyzed for which GAN and Stable diffusion would not be efficient.
+## Design Flowchart
+![SIH RAIL AI](https://github.com/pranavsrinivasa/RAIL-AI_WIP/assets/126983069/31aae595-dc7a-4721-9492-43e7f5085528)
